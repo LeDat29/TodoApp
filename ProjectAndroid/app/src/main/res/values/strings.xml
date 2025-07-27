@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ProjectAndroid</string>
+    <string name="action_dark_mode">Dark mode</string>
+    <string name="action_light_mode">Light mode</string>
+    <string name="action_system_mode">System default</string>
+    <string name="action_share">Share</string>
+    <string-array name="tags">
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Important</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>Orange</item>
+    </string-array>
+    <string-array name="notify_types">
+        <item>Default</item>
+        <item>Sound</item>
+        <item>Vibrate</item>
+        <item>Popup</item>
+    </string-array>
+    <string-array name="status">
+        <item>All</item>
+        <item>Done</item>
+        <item>Not Done</item>
+    </string-array>
+</resources>
